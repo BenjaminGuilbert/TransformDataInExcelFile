@@ -1,0 +1,5 @@
+c:\users\benjaming\documents\visual studio 2012\Projects\Idema_Import_UpSell\Idema_Import_UpSell\bin\Debug\Idema_Import_UpSell.exe
+c:\users\benjaming\documents\visual studio 2012\Projects\Idema_Import_UpSell\Idema_Import_UpSell\bin\Debug\Idema_Import_UpSell.pdb
+c:\users\benjaming\documents\visual studio 2012\Projects\Idema_Import_UpSell\Idema_Import_UpSell\obj\Debug\Idema_Import_UpSell.csprojResolveAssemblyReference.cache
+c:\users\benjaming\documents\visual studio 2012\Projects\Idema_Import_UpSell\Idema_Import_UpSell\obj\Debug\Idema_Import_UpSell.exe
+c:\users\benjaming\documents\visual studio 2012\Projects\Idema_Import_UpSell\Idema_Import_UpSell\obj\Debug\Idema_Import_UpSell.pdb
